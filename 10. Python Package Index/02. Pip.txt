@@ -1,0 +1,14 @@
+10. Python Package Index, 02. Pypi
+
+To install packages, use anaconda, pip, or pip3 in the CLI of your local machine.
+Example:
+pip3 install requests
+
+pip3 list
+This above command lists the packages installed. 
+
+pip3 install requests==2.9.0
+The above command installs a specific version of a package.
+
+pip3 uninstall requests
+If you want to use a previous version, uninstall the package.

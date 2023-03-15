@@ -1,0 +1,5 @@
+13. Machine Learning with Python, 08. Learning and Predicting
+
+Build a Machine Learning algorithm.
+Decision tree. 
+If the model is not accurate, use a different algorithm. 

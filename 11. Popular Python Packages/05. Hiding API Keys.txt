@@ -1,0 +1,6 @@
+11. Popular Python Packages, 05. Hiding API Keys
+
+You can hide an API key buy creating a file called "config.py."
+Place the API key in the file.
+Make a new file called ".gitignore." 
+Can be used for other sensitive information. 

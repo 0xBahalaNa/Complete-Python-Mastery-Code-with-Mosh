@@ -1,0 +1,13 @@
+10. Python Package Index, 03. Virtual Environments
+
+https://docs.python.org/3/library/venv.html
+https://packaging.python.org/tutorials/installing-packages/#creating-virtual-environments
+
+You can create a virtual enviroment to install packages.
+This is useful for when you are working with a project and want to use the previous version of the package.
+
+Ensure that when you run the below command, that you are in the directory for a specific project.
+This was ran in the project directory. 
+python3 -m venv env
+
+Virtual directory for specific package versions. 

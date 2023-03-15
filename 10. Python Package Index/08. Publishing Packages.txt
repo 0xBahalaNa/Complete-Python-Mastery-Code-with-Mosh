@@ -1,0 +1,6 @@
+10. Python Package Index, 08. Publishing Packages 
+
+How to publish packages to pypi.org
+
+https://packaging.python.org/tutorials/packaging-projects/
+

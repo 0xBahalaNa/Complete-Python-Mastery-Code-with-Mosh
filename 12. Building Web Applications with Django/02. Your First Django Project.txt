@@ -1,0 +1,9 @@
+12. Building Web Applications with Django, 02. Your First Django project
+
+Make a directory called vidly within project directory. 
+
+Install Django using pip, pip3, or pipenv.
+Once installed, start a Django project with following command:
+django-admin start project vidly .
+
+Once installed, the directory will auto create files within. 

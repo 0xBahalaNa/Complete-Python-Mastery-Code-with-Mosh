@@ -1,0 +1,7 @@
+10. Python Package Index, 01. Pypi
+
+Python standard library has a lot of libraries and modules.
+Pypi is a repository of Python packages. 
+htttps://www.pypi.org
+
+You can search for different packages at Pypi for whatever packages are needed.

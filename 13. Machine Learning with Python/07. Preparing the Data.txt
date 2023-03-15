@@ -1,0 +1,6 @@
+13. Machine Learning with Python, 07. Preparing the Data 
+
+Remove duplicates, null values etc. 
+This project already has cleaned data.
+
+Input set and output set. 

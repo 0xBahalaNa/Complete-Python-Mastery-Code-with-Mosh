@@ -1,0 +1,4 @@
+10. Python Package Index, 05. Virtual Environments in VSCode
+
+To get the virtual enviroment folder run the command:
+> pipenv --venv 

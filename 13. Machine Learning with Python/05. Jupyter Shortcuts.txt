@@ -1,0 +1,5 @@
+13. Machine Learning with Python, 05. Jupyter Shortcuts
+
+Some useful shortcuts in Jupyter.
+There are commands specific to Mac and Windows.
+Jupyter is useful because it saves the output of each cell.

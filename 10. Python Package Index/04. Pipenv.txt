@@ -1,0 +1,9 @@
+10. Python Package Index, 04. Pipenv
+
+pipenv is utilized so you don't have to use pip(3) and env separately. 
+Dependancy manager for virtual environments. 
+
+pip3 install pipenv
+
+pipenv shell
+The above command activates the virtual enviroment.

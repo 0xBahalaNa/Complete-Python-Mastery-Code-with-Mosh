@@ -1,0 +1,5 @@
+13. Machine Learning with Python, 10. Persisting Models
+
+Training a model is time consuming.
+Real data sets for a model with thousands or millions of samples. 
+Model persistance is important. 

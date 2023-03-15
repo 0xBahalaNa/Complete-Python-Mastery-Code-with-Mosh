@@ -1,0 +1,11 @@
+13. Machine Learning with Python, 03. Libraries and Tools
+
+Libraries:
+Numpy - Provides multidimensional arrays
+Pandas - Data analysis library. Data frames.
+MatPlotLib - Two dimensional plotting library.
+Scikit-Learn - Machine Learning library containing algorithms such as decision trees or neural networks.
+
+Jupyter Notebook is normally used to Data/AI/ML easily.
+
+Download Anaconda. 

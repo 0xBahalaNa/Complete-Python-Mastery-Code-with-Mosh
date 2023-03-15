@@ -1,0 +1,11 @@
+13. Machine Learning with Python, 01. What is Machine Learning
+
+Machine Learning is a subset of Artificial Intelligence.
+
+Machine Learning is a technique to solve real world problems.
+
+Create a model/engine and give it lots of data (10,000+). 
+
+Model will learn patterns in the data. 
+
+Self-driving cars, robotics, language procesing, vision processing, forecasting/predictions.

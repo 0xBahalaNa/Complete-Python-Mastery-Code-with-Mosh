@@ -1,0 +1,13 @@
+12. Building Web Applications with Django, 01. Introduction
+
+Django is a web framework for Python. 
+Django is used for making web applications.
+Some popular websites have been created using Django:
+Instagram, Facebook etc.
+
+Vidly project using Django. 
+Web application for movie rentals. 
+Once finished, deploy it to Heroku.
+
+For more in depth instructions, follow the course videos.
+For this project, I will be only adding small notes for myself. 

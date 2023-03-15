@@ -1,0 +1,9 @@
+12. Building Web Applications with Django, 03. Your First App
+
+Django can contain multiple apps.
+Segment into smaller projects. 
+
+Create a movies project with the following command in the project directory:
+python3 manage.py startapp movies
+
+Model, Template, View

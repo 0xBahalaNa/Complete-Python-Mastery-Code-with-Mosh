@@ -1,0 +1,7 @@
+11. Popular Python Packages, 02. What are APIs
+
+A lot of websites allow their data to be accessed by the public.
+This is due to APIs.
+Application Programming Interfaces.
+They are endpoints that are publically accessible from the internet.
+They also have a URL like a website. 

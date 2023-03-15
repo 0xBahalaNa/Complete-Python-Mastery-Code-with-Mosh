@@ -1,0 +1,7 @@
+13. Machine Learning with Python, 09. Calculating the Accuracy
+
+Measure the accuracy of the models.
+Split the data into training and testing. 
+70-80% for training, the remaining 10-20% for testing.
+Compare the predictions of the training set to the testing set. 
+More complex the problem, the more data the model needs. 

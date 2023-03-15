@@ -1,0 +1,6 @@
+13. Machine Learning with Python, 04. Importing a Data Set
+
+Create a Kaggle account. 
+Download the Video Game Sales data set from Kaggle. 
+Import pandas. 
+Easily visualize the data in Jupyter.
